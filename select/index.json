@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "すないぱー。",
+  "base_artist": "Yuika",
+  "createdAt": "2025-12-02T13:20:48.147397Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "すないぱー。",
+      "artist": "『ユイカ』",
+      "has_synced": false,
+      "path": "select/01_すないぱー。_『ユイカ』.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "すないぱー。",
+      "artist": "『ユイカ』",
+      "has_synced": true,
+      "path": "select/02_すないぱー。_『ユイカ』.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "すないぱー。",
+      "artist": "ユイカ",
+      "has_synced": true,
+      "path": "select/03_すないぱー。_ユイカ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "すないぱー。",
+      "artist": "『ユイカ』",
+      "has_synced": false,
+      "path": "select/pl_01_すないぱー。_『ユイカ』.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "すないぱー。",
+      "artist": "『ユイカ』",
+      "has_synced": false,
+      "path": "select/pl_02_すないぱー。_『ユイカ』.txt"
+    }
+  ]
+}
